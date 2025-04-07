@@ -52,8 +52,6 @@ Netflix-Data-Analysis-Visualization/
    - Personalized recommendations drive over 70% of the total watched content, underscoring its value.
    - Users exposed to strong recommendations tend to have 1.5x more watch time.
 
----
-
 ## **Business Recommendations for Netflix**
 
 1. **Content Strategy**:
